@@ -11512,3 +11512,13 @@ html {
 .modal-github {
   font-size: 30px;
 }
+
+.headshot {
+  /* border-radius: 50%; */
+
+  clip-path: circle();
+}
+
+.modal-title-link {
+  text-decoration: none;
+}
